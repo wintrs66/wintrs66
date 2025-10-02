@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Brian, 16 years old. I’m really interested in coding, and even though I’m still a student, I want to become an AI engineer one day.
+I'm Brian, a kid with a dream, chasing the impossible
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wintrs66&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
