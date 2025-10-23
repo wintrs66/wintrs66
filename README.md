@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm wintrs, a kid with a dream, chasing the impossible
+I'm 2ummrs.. that's it
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wintrs66&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
